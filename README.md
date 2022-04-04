@@ -36,6 +36,7 @@
 ## Community
 
 * [Skywater PDK Slack](https://join.slack.com/t/skywater-pdk/shared_invite/zt-ggcxts4x-4V5AwC950Zv9YgbZ4g~sMQ)
+* [Twitter list](https://twitter.com/i/lists/1510948904736628736)
 
 ## Videos
 
