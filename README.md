@@ -44,9 +44,9 @@
 
 ## How to get started with the Google sponsored shuttle
 
-* [https://github.com/efabless/caravel_user_project/blob/main/docs/source/quickstart.rst](https://github.com/efabless/caravel_user_project/blob/main/docs/source/quickstart.rst) 
+* [Quickstart guide](https://caravel-user-project.readthedocs.io/en/latest/quickstart.html)
 * Then [join the community slack](https://join.slack.com/t/skywater-pdk/shared_invite/zt-ggcxts4x-4V5AwC950Zv9YgbZ4g~sMQ) #shuttle & #caravel channels.
-* [FAQ](https://docs.google.com/document/d/1Y7LuP_0dJ_vmD8G_Twc6qc97fj7aW5pRV5nAjN2oOUk/edit#heading=h.dabsoa4nkp71)
+* Check the [FAQ](https://docs.google.com/document/d/1Y7LuP_0dJ_vmD8G_Twc6qc97fj7aW5pRV5nAjN2oOUk/edit#heading=h.dabsoa4nkp71)
 * See the projects submitted here: [https://platform.efabless.com/projects/public](https://platform.efabless.com/projects/public) 
 
 ## Conferences
