@@ -1,5 +1,7 @@
 # Awesome opensource ASIC resource
 
+[Terminology](https://zerotoasiccourse.com/terminology/)
+
 ## Digital focussed tools
 
 * [OpenLane](https://openlane-docs.readthedocs.io/en/rtd-develop/) - end to end ASIC flow
@@ -16,10 +18,10 @@
 
 ## Analogue focussed tools
 
-* Magic - old school, layout drawing tool; still a requirement in the modern flows
-* Klayout - modern style layout drawing tool.
-* Xschem - schematic capture
-* Ngspice - simulation
+* [Magic](http://opencircuitdesign.com/magic/) - old school, layout drawing tool; still a requirement in the modern flows
+* [Klayout](https://www.klayout.de/) - modern style layout drawing tool.
+* [Xschem](https://xschem.sourceforge.io/stefan/index.html) - schematic capture
+* [Ngspice](http://ngspice.sourceforge.net/) - simulation
  
 ## Generators
 
