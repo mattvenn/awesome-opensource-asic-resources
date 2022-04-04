@@ -15,6 +15,7 @@
 ## High level synthesis (HLS)
 
 * [Amaranth](https://github.com/amaranth-lang)
+* [XLS](https://google.github.io/xls/)
 
 ## Analogue focussed tools
 
