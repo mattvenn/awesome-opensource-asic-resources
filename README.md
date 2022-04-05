@@ -11,6 +11,7 @@
 * [OSS Cad Suite](https://github.com/YosysHQ/oss-cad-suite-build) - lots of open source tools useful for digital design
 * [VHDL support - with GHDL](https://docs.google.com/document/d/1RAQWjmxpJndlEJdLWXK8irIqWuYTstqu7pU3tOIFccc/edit)
 * [Awesome list of verification tools](https://github.com/troyguo/awesome-dv)
+* [Awesome list of HDL tools / libraries / cores ...](https://hdl.github.io/awesome/)
 
 ## High level synthesis (HLS)
 
