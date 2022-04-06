@@ -13,6 +13,7 @@
 * [VHDL support - with GHDL](https://docs.google.com/document/d/1RAQWjmxpJndlEJdLWXK8irIqWuYTstqu7pU3tOIFccc/edit)
 * [Awesome list of verification tools](https://github.com/troyguo/awesome-dv)
 * [Awesome list of HDL tools / libraries / cores ...](https://hdl.github.io/awesome/)
+* [Awesome list of open EDA tools](https://semiwiki.com/wikis/industry-wikis/eda-open-source-tools-wiki/)
 
 ## High level synthesis (HLS)
 
