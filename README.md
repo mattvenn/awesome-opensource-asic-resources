@@ -64,7 +64,7 @@
 ## Courses
 
 * [Zero To ASIC course](https://zerotoasiccourse.com/)
-* [Kunal’s VLSI courses on Udemy](https://www.udemy.com/course/vlsi-academy-custom-layout/)
+* [VSD VLSI courses on Udemy](https://www.udemy.com/course/vlsi-academy-custom-layout/)
 
 ## Articles
 
