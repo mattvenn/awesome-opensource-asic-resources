@@ -9,6 +9,7 @@
 * [Silicon Compiler](https://www.siliconcompiler.com/) - end to end ASIC flow
 * [Coriolis 2](http://coriolis.lip6.fr/) - end to end ASIC flow
 * [OSS Cad Suite](https://github.com/YosysHQ/oss-cad-suite-build) - lots of open source tools useful for digital design
+* [OSFPGA](https://github.com/os-fpga) - end to end FPGA flow with open source tools such as Yosys, VTR and VPR
 * [VHDL support - with GHDL](https://docs.google.com/document/d/1RAQWjmxpJndlEJdLWXK8irIqWuYTstqu7pU3tOIFccc/edit)
 * [Awesome list of verification tools](https://github.com/troyguo/awesome-dv)
 * [Awesome list of HDL tools / libraries / cores ...](https://hdl.github.io/awesome/)
