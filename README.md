@@ -24,8 +24,10 @@
 
 * [Magic](http://opencircuitdesign.com/magic/) - old school, layout drawing tool; still a requirement in the modern flows
 * [Klayout](https://www.klayout.de/) - modern style layout drawing tool.
-* [Xschem](https://xschem.sourceforge.io/stefan/index.html) - schematic capture
+* [Xschem](https://xschem.sourceforge.io/stefan/index.html) - old school, schematic capture
+* [Mosaic](https://nyancad.github.io/Mosaic/) - schematic capture (experimental)
 * [Ngspice](http://ngspice.sourceforge.net/) - simulation
+* [Xyce](https://xyce.sandia.gov/) - simulation
  
 ## Generators
 
