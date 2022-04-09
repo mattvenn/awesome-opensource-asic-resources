@@ -93,5 +93,6 @@
 * [LibreSilicon](https://libresilicon.com/) - open source manufacturing process standard
 * [LowRISC](https://lowrisc.org/open-silicon/) - open source silicon designs and tools
 * [Skywater Technology](https://www.skywatertechnology.com/) - foundry that first published open source PDK
+* [OpenHW Group](https://www.openhwgroup.org/) - open-source cores, verification, software and standards
 * [YosysHQ](https://www.yosyshq.com/) - open source EDA & Formal Verification
 * [ZeroASIC](https://www.zeroasic.com/) - makers of silicon compiler ASIC tool flow
