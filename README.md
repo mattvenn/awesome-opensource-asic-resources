@@ -22,7 +22,7 @@
 
 ## Analogue focussed tools
 
-* [Magic](http://opencircuitdesign.com/magic/) - old school, layout drawing tool; still a requirement in the modern flows
+* [Magic](http://opencircuitdesign.com/magic/) - old school, layout drawing tool; still a requirement in the modern flows. [Cheatsheet](https://github.com/hpretl/iic-osic/blob/main/magic-cheatsheet/magic_cheatsheet.pdf).
 * [Klayout](https://www.klayout.de/) - modern style layout drawing tool.
 * [Xschem](https://xschem.sourceforge.io/stefan/index.html) - old school, schematic capture
 * [Mosaic](https://nyancad.github.io/Mosaic/) - schematic capture (experimental)
