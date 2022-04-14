@@ -14,6 +14,7 @@
 * [Awesome list of verification tools](https://github.com/troyguo/awesome-dv)
 * [Awesome list of HDL tools / libraries / cores ...](https://hdl.github.io/awesome/)
 * [SemiWiki's list of open EDA tools](https://semiwiki.com/wikis/industry-wikis/eda-open-source-tools-wiki/)
+* [Andreas' list of awesome hardware tools](https://github.com/aolofsson/awesome-hardware-tools)
 
 ## High level synthesis (HLS)
 
