@@ -89,7 +89,7 @@
 
 ## Companies
 
-* [Chipflow](https://www.chipflow.io/) - Helping product companies to make their own chips with open source tools
+* [ChipFlow](https://www.chipflow.io/) - Helping product companies to make their own chips with open source tools
 * [Efabless](https://efabless.com/) - simplifying chip creation
 * [LibreSilicon](https://libresilicon.com/) - open source manufacturing process standard
 * [LowRISC](https://lowrisc.org/open-silicon/) - open source silicon designs and tools
