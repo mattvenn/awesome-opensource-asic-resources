@@ -29,6 +29,7 @@
 * [Mosaic](https://nyancad.github.io/Mosaic/) - schematic capture (experimental)
 * [Ngspice](http://ngspice.sourceforge.net/) - simulation
 * [Xyce](https://xyce.sandia.gov/) - simulation
+* [gdsfactory](https://gdsfactory.github.io/gdsfactory/) -  EDA tool to Layout and simulate Integrated Circuits.
  
 ## Generators
 
