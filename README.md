@@ -36,6 +36,7 @@
 * [OpenRAM](https://openram.soe.ucsc.edu/) - SRAM generator
 * [DFFRAM](https://github.com/Cloud-V/DFFRAM) - Memory Compiler using FF/Latch cells
 * [OpenFASoC](https://github.com/idea-fasoc/OpenFASOC) - Analogue IP generator (LDO, temperature sense etc)
+* [MOSAIC_BAG2](https://gitlab.com/mosaic_group/mosaic_BAG/virtuoso_template) - Analogue IP generator framework (w/minimum working example)
 
 ## PDK
 
