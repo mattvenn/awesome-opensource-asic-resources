@@ -20,6 +20,7 @@
 
 * [Amaranth](https://github.com/amaranth-lang)
 * [XLS](https://google.github.io/xls/)
+* [Spinal](https://github.com/SpinalHDL/SpinalHDL)
 
 ## Analogue focussed tools
 
