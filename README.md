@@ -1,4 +1,4 @@
-# Awesome opensource ASIC resources
+# Awesome open source ASIC resources
 
 [Terminology](https://zerotoasiccourse.com/terminology/)
 
