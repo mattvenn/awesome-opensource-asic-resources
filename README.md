@@ -43,6 +43,7 @@
 ## PDK
 
 * [Sky130](https://skywater-pdk.readthedocs.io/en/main/)
+* [GF180MCU](https://gf180mcu-pdk.readthedocs.io/en/latest/)
 * Watch this space!
 
 ## Community
