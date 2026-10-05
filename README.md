@@ -31,6 +31,7 @@
 * [Ngspice](http://ngspice.sourceforge.net/) - simulation
 * [Xyce](https://xyce.sandia.gov/) - simulation
 * [gdsfactory](https://gdsfactory.github.io/gdsfactory/) -  EDA tool to Layout and simulate Integrated Circuits.
+* [layouteditor-skill](https://github.com/laull9/layouteditor-skill) - First agent skill and Python automation for LayoutEditor (headless GDSII layout, DRC, and verification).
  
 ## Generators
 
